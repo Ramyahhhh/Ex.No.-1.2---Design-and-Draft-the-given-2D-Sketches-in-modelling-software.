@@ -1,31 +1,55 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+## DATE: 08-10-26
+## REG NO: 26017329
+## NAME: M RAMYA
 
 ## AIM
- To sketch the given drawing with dimensions using fusion 360 tool.
- 
+To design and prepare the given two-dimensional sketches using modelling
+software by applying appropriate drawing tools and maintaining the required
+geometric dimensions and accuracy.
+
 ## REQUIREMENTS
- 1. Autodesk fusion 360
- 2. Windows 10
- 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
- 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+● Computer or laptop with modelling software installed.
+● CAD software such as AutoCAD or equivalent 2D drafting
+software.
+● Given 2D sketch reference sheets.
+● Basic knowledge of drawing commands and dimensioning
+tools.
+● A workspace configured with suitable drawing units and
+scale.
+
  
  ## PROCEDURE
- 1.	Open new file and then select sketch icon.
- 2.	Select the plane for sketching. 
- 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+ 1. Start the modelling software and open a new drawing
+document.
+
+ 2 Configure the drawing units, workspace, and other
+necessary settings.
+
+ 3. Examine the given 2D sketches and identify their shapes,
+dimensions, and geometric features.
+
+ 4.Select suitable drawing commands, such as Line, Circle,
+Arc, Rectangle, and Polygon, to construct the required
+profiles.
+
+ 5. Use the specified measurements to maintain dimensional
+accuracy while creating the sketches.
+
+ 6. Apply editing commands such as Trim, Extend, Offset,
+and Erase to refine the geometry.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
- 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
  
- 5.	Use inspect feature to measure the dimensions of sketch.
+7. Add the necessary dimensions and verify the alignment
+and proportions of each sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
- 
- 6.	After finishing the sketch use finish sketch option to finalize the sketch.
+
  ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
- 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
+ 
+ 8.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
  ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
  
@@ -47,6 +71,6 @@
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
- RAMYA M
+
  26017329
  8/10/26
